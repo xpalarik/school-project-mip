@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511814394 source:c:\users\jakubko palárik\documents\projektsmrt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
